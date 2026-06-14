@@ -4,13 +4,8 @@ Aplicación web desarrollada con **Vue.js 3**, **PrimeVue** y **PrimeFlex** que 
 
 ## URL de publicación
 
-**Netlify:** https://tarea5-biblioteca.netlify.app
+**Netlify:** https://spiffy-malabi-f498ba.netlify.app/
 
-> Sustituye esta URL por la dirección real después de desplegar el proyecto en [Netlify](https://www.netlify.com/). Pasos recomendados:
-> 1. Sube el repositorio a GitHub.
-> 2. En Netlify, crea un nuevo sitio conectado al repositorio.
-> 3. Configura el comando de build: `npm run build`
-> 4. Configura el directorio de publicación: `dist`
 
 ## Descripción
 
